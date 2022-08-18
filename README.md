@@ -22,8 +22,10 @@ The model optimization was performed in order to achieve a target predictive acc
 •	Model optimized_4: Leaky_relu activation function was used for the second hidden layer of the first model.
 
 ## Results and conclusions  
-A neural network was used to create a binary classifier to predict whether applicants would be successful if funded by the company, Alphabet Soup. The dataset included information for more than 34,000 organizations that had received funding from Alphabet Soup over the years. The analysis included processing the data for the neural network model, compiling, training, and evaluating the model and finally optimizing the model to achieve better performance. The loss and accuracy for each model is summarized in Table 1. Although, a slight improvement was observed by adjusting the input data as evident by model 1 accuracy, the optimized models were not able to achieve a better accuracy compared to the original model. Considering the type and size of the data, LogisticRegression, Random Forest classifiers or SVM machine learning models could provide better performance compared to the neural network models.
-  
-  ![image](https://user-images.githubusercontent.com/103223944/185270466-723b72ab-c4e2-415c-9ca6-5f5b54f3066e.png)
+A neural network was used to create a binary classifier to predict whether applicants would be successful if funded by the company, Alphabet Soup. The dataset included information for more than 34,000 organizations that had received funding from Alphabet Soup over the years. The analysis included processing the data for the neural network model, compiling, training, and evaluating the model and finally optimizing the model to achieve better performance. The loss and accuracy for each model are summarized in Table 1. Although, a slight improvement was observed by adjusting the input data as evident by model 1 accuracy, the optimized models were not able to achieve a better accuracy than the original model. Considering the type and size of the data, LogisticRegression, Random Forest classifiers or SVM machine learning models could provide better performance compared to the neural network models.
+
+ <div align="center"> 
+   
+![image](https://user-images.githubusercontent.com/103223944/185270631-4cc20478-c103-4790-afb2-cae785b8a6a2.png)
   
   
